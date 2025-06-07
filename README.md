@@ -10,9 +10,8 @@ https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset/data
 
 ## Tech Stack
 
-- Python 3.8+
-- PyTorch
-- pandas, scikit-learn
+- Python 3
+- PyTorch, pandas, scikit-learn
 - Jupyter Notebook
 
 ## Setup
